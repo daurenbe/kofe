@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+.container{
+    width: 98%;
+    margin: 0 auto;
+}
+nav a{
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+    
+}
+button{
+    border: none;
+    cursor: pointer;
+}
+.navbar{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+nav{
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+body {
+    position: relative;
+    height: 100px;
+  }
+  
+  
+  body {
+    background: rgb(12, 10, 10);
+
+  }
+  .swiper {
+    width: 800px;
+    height: 400px;
+  }
+
+  .swiper-slide {
+    overflow: hidden;
+  }
+  
+
+
+  
